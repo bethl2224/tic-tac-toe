@@ -1,0 +1,7 @@
+.prettierrc
+cupid.mp3
+mainPrev.js
+*.json
+prev.js
+.vscode/
+.DS_Store
